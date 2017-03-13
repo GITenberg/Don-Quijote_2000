@@ -1,5 +1,8 @@
 _repo: Don-Quijote_2000
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cervantes Saavedra, Miguel de
@@ -16,6 +19,8 @@ creator:
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2000#Don-Quijote
 gutenberg_bookshelf:
 - Harvard Classics
 - Best Books Ever Listings
